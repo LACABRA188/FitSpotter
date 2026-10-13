@@ -1,0 +1,30 @@
+﻿using System;
+using System.Collections.Generic;
+using System.ComponentModel;
+using System.Data;
+using System.Drawing;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Windows.Forms;
+
+namespace FitSpotter
+{
+    public partial class V2RegistroSocioForm : Form
+    {
+        public V2RegistroSocioForm()
+        {
+            InitializeComponent();
+        }
+
+        private void V2RegistroSocioForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+
+        }
+    }
+}
